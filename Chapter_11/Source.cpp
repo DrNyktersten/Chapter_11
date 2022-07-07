@@ -44,9 +44,11 @@ int main()
 	cout << "Hours worked: " << employee.hours << endl; 
 	cout << "Hourly payRate: " << employee.payRate << endl; 
 	cout << fixed << showpoint << setprecision(2); 
+
 	//fixed keyword is used to display value in original state not exponential
 	//showpoint keyword is used to display the numbers after the decimal 
 	//setprecision keyword is used to display to round up the decimal numbers  
+	
 	cout << "Gross Pay: $" << employee.grossPay << endl;
 	return 0; 
 }

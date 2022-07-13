@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Accepting_functions_with_st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Function_Struct", "Function_Struct\Function_Struct.vcxproj", "{82EB2FF7-E902-4A9D-8DCB-4ECB934F9020}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using_Pointer_with_Struct", "Using_Pointer_with_Struct\Using_Pointer_with_Struct.vcxproj", "{782A2300-D7E5-473B-9F28-3E0395094B79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{82EB2FF7-E902-4A9D-8DCB-4ECB934F9020}.Release|x64.Build.0 = Release|x64
 		{82EB2FF7-E902-4A9D-8DCB-4ECB934F9020}.Release|x86.ActiveCfg = Release|Win32
 		{82EB2FF7-E902-4A9D-8DCB-4ECB934F9020}.Release|x86.Build.0 = Release|Win32
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Debug|x64.ActiveCfg = Debug|x64
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Debug|x64.Build.0 = Debug|x64
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Debug|x86.ActiveCfg = Debug|Win32
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Debug|x86.Build.0 = Debug|Win32
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Release|x64.ActiveCfg = Release|x64
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Release|x64.Build.0 = Release|x64
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Release|x86.ActiveCfg = Release|Win32
+		{782A2300-D7E5-473B-9F28-3E0395094B79}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
